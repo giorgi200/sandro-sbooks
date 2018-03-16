@@ -1,0 +1,23 @@
+<script src="../lib/jquery/jquery.js"></script>
+    <script src="../lib/popper.js/popper.js"></script>
+    <script src="../lib/bootstrap/bootstrap.js"></script>
+    <script src="../lib/perfect-scrollbar/js/perfect-scrollbar.jquery.js"></script>
+    <script src="../lib/moment/moment.js"></script>
+    <script src="../lib/jquery-ui/jquery-ui.js"></script>
+    <script src="../lib/jquery-switchbutton/jquery.switchButton.js"></script>
+    <script src="../lib/peity/jquery.peity.js"></script>
+    <script src="../lib/d3/d3.js"></script>
+    <script src="../lib/rickshaw/rickshaw.min.js"></script>
+    <script src="../lib/Flot/jquery.flot.js"></script>
+    <script src="../lib/Flot/jquery.flot.resize.js"></script>
+    <script src="../lib/flot-spline/jquery.flot.spline.js"></script>
+    <script src="../lib/jquery.sparkline.bower/jquery.sparkline.min.js"></script>
+    <script src="../lib/echarts/echarts.min.js"></script>
+    <script src="../lib/select2/js/select2.full.min.js"></script>
+    <script src="http://maps.google.com/maps/api/js?key=AIzaSyCuWEQWfVkWfcUoSIZeGw5JioT9LVCwYkE"></script>
+    <script src="../lib/gmaps/gmaps.js"></script>
+    <script src="../js/bracket.js"></script>
+    <script src="../js/map.shiftworker.js"></script>
+    <script src="../js/ResizeSensor.js"></script>
+    <script src="../js/dashboard.dark.js"></script>
+    <script src="../js/upload.js"></script>
